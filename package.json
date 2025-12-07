@@ -1,0 +1,27 @@
+{
+  "name": "yakedd-seo-cleaner",
+  "version": "1.0.0",
+  "description": "Professional utility to clean strings for SEO Titles, Meta Descriptions, and Slugs. Lightweight and zero-dependency.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YakeddGraph/yakedd-seo-cleaner.git"
+  },
+  "keywords": [
+    "seo",
+    "slugify",
+    "clean-text",
+    "meta-tags",
+    "automation",
+    "yakedd"
+  ],
+  "author": {
+    "name": "YakeddGraph",
+    "url": "https://yakeddgraph.com"
+  },
+  "license": "MIT",
+  "homepage": "https://yakeddgraph.com/?utm_source=npm_package&utm_medium=referral&utm_campaign=seo_tool_link"
+}
