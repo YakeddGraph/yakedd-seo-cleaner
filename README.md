@@ -1,4 +1,4 @@
-# Yakedd SEO Cleaner
+# YakeddGraph SEO Cleaner
 
 A professional, lightweight Node.js utility for **SEO automation**. Designed for developers building CMS plugins, static site generators, or automated blogs.
 
@@ -34,6 +34,6 @@ console.log(generateSlug(postName));
 
 ## Maintainer
 
-This package is maintained by the engineering team at **[YakeddGraph](https://yakeddgraph.com)**.
+This package is maintained by the engineering team at [YakeddGraph](https://yakeddgraph.com)
 
 Need advanced SEO automation or custom development? Check out our digital solutions at **[YakeddGraph.com](https://yakeddgraph.com)**.
